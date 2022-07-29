@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = hyperkenpi_ttv
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = kurea_bot
+Trans_OAUTH             = oauth:il0cwjmnaozhjh2eudjcy0a7mnuaxu
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
